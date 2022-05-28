@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<directory name="." path="C:\Users\Alex\IdeaProjects\xml\.">
+    <directory name=".idea" path="C:\Users\Alex\IdeaProjects\xml\.\.idea">
+        <file name=".gitignore" path="C:\Users\Alex\IdeaProjects\xml\.\.idea\.gitignore"/>
+        <file name="misc.xml" path="C:\Users\Alex\IdeaProjects\xml\.\.idea\misc.xml"/>
+        <file name="modules.xml" path="C:\Users\Alex\IdeaProjects\xml\.\.idea\modules.xml"/>
+        <file name="workspace.xml" path="C:\Users\Alex\IdeaProjects\xml\.\.idea\workspace.xml"/>
+    </directory>
+    <file name="file.xml" path="C:\Users\Alex\IdeaProjects\xml\.\file.xml"/>
+    <directory name="out" path="C:\Users\Alex\IdeaProjects\xml\.\out">
+        <directory name="production" path="C:\Users\Alex\IdeaProjects\xml\.\out\production">
+            <directory name="xml" path="C:\Users\Alex\IdeaProjects\xml\.\out\production\xml">
+                <file name="Main.class" path="C:\Users\Alex\IdeaProjects\xml\.\out\production\xml\Main.class"/>
+                <file name="Tree.class" path="C:\Users\Alex\IdeaProjects\xml\.\out\production\xml\Tree.class"/>
+            </directory>
+        </directory>
+    </directory>
+    <file name="output.xml" path="C:\Users\Alex\IdeaProjects\xml\.\output.xml"/>
+    <directory name="src" path="C:\Users\Alex\IdeaProjects\xml\.\src">
+        <file name="Main.java" path="C:\Users\Alex\IdeaProjects\xml\.\src\Main.java"/>
+        <file name="Tree.java" path="C:\Users\Alex\IdeaProjects\xml\.\src\Tree.java"/>
+    </directory>
+    <file name="xml.iml" path="C:\Users\Alex\IdeaProjects\xml\.\xml.iml"/>
+</directory>
