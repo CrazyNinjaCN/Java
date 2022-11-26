@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="lwjgl-assimp-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-assimp-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-assimp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-bgfx-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-bgfx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-glfw-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-glfw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-nanovg-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-nanovg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-nuklear-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-nuklear.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-openal-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-openal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-opengl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-opengl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-par-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-par.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-stb-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-stb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-vulkan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-assimp-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-bgfx-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-glfw-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-nanovg-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-nuklear-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-openal-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-opengl-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-par-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-stb-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-vulkan-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-assimp-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-bgfx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-glfw-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-nanovg-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-nuklear-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-openal-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-opengl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-par-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-stb-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lwjgl-release-3.3.1-custom-get-started/lwjgl-vulkan-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
